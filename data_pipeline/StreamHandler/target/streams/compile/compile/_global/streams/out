@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/uyen/iot_streams/StreamHandler/src/main/scala/StreamHandler.scala:57:31: unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0m			.withColumnRenamed("text", "description)[0m
+[0m[[0m[31merror[0m] [0m[0m			                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/uyen/iot_streams/StreamHandler/src/main/scala/StreamHandler.scala:73:5: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    }[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

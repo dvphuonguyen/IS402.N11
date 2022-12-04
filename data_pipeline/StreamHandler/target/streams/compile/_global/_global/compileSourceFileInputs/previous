@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.15":{"hashes":[["/home/uyen/iot_streams/StreamHandler/src/main/scala/StreamHandler.scala","45928cf9e3b1967472be839e86b5955479665476"]],"lastModifiedTimes":[]}}]
